@@ -27,9 +27,7 @@ Snake-Game/
 ├── README.md # Project documentation
 ├── Gameplay Video #Watch the gameplay demo 
 
-
 ## 🎥 Gameplay Video
-<video src="https://github.com/sakshid3004/Snake-Game-Python/raw/main/Snake%20Game.mp4" controls width="600"></video>
-
+https://github.com/sakshid3004/Snake-Game-Python/raw/main/Snake%20Game.mp4
 
 
