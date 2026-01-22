@@ -28,5 +28,7 @@ Snake-Game/
 ├── Gameplay Video #Watch the gameplay demo 
 
 
+## 🎥 Gameplay Video
+https://github.com/sakshid3004/Snake-Game-Python/raw/main/Snake%20Game.mp4
 
 
